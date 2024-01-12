@@ -1,9 +1,208 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T23:17:28.404Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.18" etag="HTkJJ7wVV1CAmjKEYmfJ" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-12T00:21:05.544Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="d-3p2WAZoSmCRWvMH-NN" version="22.1.18" type="github">
   <diagram name="Página-1" id="T51k41MZGoIPOJ7VWiH2">
-    <mxGraphModel>
+    <mxGraphModel dx="2647" dy="1447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-46" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;curved=1;" edge="1" parent="1" source="WbwlSFrgMBep1RVpoRQw-51" target="WbwlSFrgMBep1RVpoRQw-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1241" y="230" />
+              <mxPoint x="255" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-47" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="WbwlSFrgMBep1RVpoRQw-51" target="WbwlSFrgMBep1RVpoRQw-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-48" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="WbwlSFrgMBep1RVpoRQw-51" target="WbwlSFrgMBep1RVpoRQw-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-200" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;strokeWidth=3;" edge="1" parent="1" source="WbwlSFrgMBep1RVpoRQw-51" target="WbwlSFrgMBep1RVpoRQw-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-201" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="WbwlSFrgMBep1RVpoRQw-51" target="WbwlSFrgMBep1RVpoRQw-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-51" value="&lt;font style=&quot;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u style=&quot;font-size: 50px;&quot;&gt;reNFT: A Comprehensive Overview&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#2B2B2B;" vertex="1" parent="1">
+          <mxGeometry x="755" y="90" width="971" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-54" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="59.870000000000005" as="sourcePoint" />
+            <mxPoint x="2470" y="56" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-55" value="" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="WbwlSFrgMBep1RVpoRQw-54">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-56" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6" y="1643.87" as="sourcePoint" />
+            <mxPoint x="2476" y="1640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-57" value="" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="WbwlSFrgMBep1RVpoRQw-56">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-58" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Tahoma&quot; color=&quot;#ffffff&quot;&gt;Gnosis Safe&amp;nbsp; (Secure Wallet)&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#CC99FF;align=center;strokeWidth=1;strokeColor=default;gradientColor=#000000;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="300" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-59" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Tahoma&quot; color=&quot;#ffffff&quot;&gt;Seaport&amp;nbsp; (NFT Listing Platform)&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#CC99FF;align=center;strokeWidth=1;strokeColor=default;gradientColor=#000000;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1096" y="310" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-60" value="&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; face=&quot;Tahoma&quot;&gt;Automated Contracts&lt;span style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;(Smart Contracts) &lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#CC99FF;align=center;strokeWidth=1;strokeColor=default;gradientColor=#000000;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="310" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-61" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;font color=&quot;#ffffff&quot; face=&quot;Tahoma&quot; style=&quot;font-size: 30px;&quot;&gt;Policies&amp;nbsp; (External Contracts)&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#CC99FF;align=center;dashed=1;strokeWidth=1;strokeColor=default;gradientColor=#000000;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1096" y="1030" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-62" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Tahoma&quot; color=&quot;#ffffff&quot;&gt;Packages (Helper Contracts)&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#CC99FF;align=center;dashed=1;strokeWidth=1;strokeColor=default;gradientColor=#000000;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="1030" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-63" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Tahoma&quot; color=&quot;#ffffff&quot;&gt;Modules (Internal Contracts)&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#CC99FF;align=center;dashed=1;strokeWidth=1;strokeColor=default;gradientColor=#000000;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1030" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-64" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;font-size: 25px; background-color: initial;&quot;&gt;Innovación en la Gestión de Activos Digitales en Finanzas Descentralizadas&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="40" y="407" width="525" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-65" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;shadow=1;glass=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="415" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-66" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;shadow=1;glass=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="495" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-67" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;shadow=1;glass=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="568.75" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-68" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Tecnología de Cuenta Inteligente y Controles Personalizables&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="40" y="480" width="525" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-69" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;img alt=&quot;3D illustration Ethereum wallet 10851737 PNG&quot; src=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6X7U2fUekvk4ghI_S3LLGMRdbtXGZBnZSg&amp;amp;usqp=CAU&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="588.75" width="221" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-70" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Integración Efectiva en Entornos DeFi y Web3 con Interfaz Segura&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="40" y="542.5" width="530" height="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-71" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;shadow=1;glass=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="415" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-72" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;shadow=1;glass=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="472" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-73" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;shadow=1;glass=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="547.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-74" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;shadow=1;glass=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="615" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-75" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Comprehensive Support for NFT Standards&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="978.5" y="400" width="525" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-76" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Different Approach to NFT Transactions&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="978" y="457" width="525" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-77" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Consistent Listing Structure with Enhanced EIP-712 Signature Payload&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="978" y="532.5" width="525" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-78" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="WbwlSFrgMBep1RVpoRQw-79" target="WbwlSFrgMBep1RVpoRQw-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-79" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;img alt=&quot;3D nft art launch PNG, SVG&quot; src=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn-ncWvFXmiXZ5styPY0xUwzbu82shSV081w&amp;amp;usqp=CAU&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="647.5" width="221" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-80" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Flexibility in Fulfilling Listings&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="978" y="600" width="525" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-85" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;img alt=&quot;Smart Contract Clipart PNG Images, Digital Smart Contract In Flat Design,  Flat, Eco, Solar PNG Image For Free Download&quot; src=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR65o0BaacxVA8BczkT9Z9HTfWce2h6n9jLdDcgcIjETOwzPluj2E5ZezdFARRaqru8GIA&amp;amp;usqp=CAU&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2074.5" y="415" width="221" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-91" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;img alt=&quot;Imágenes de Smart Contract Icon: descubre bancos de fotos, ilustraciones,  vectores y vídeos de 13,909 | Adobe Stock&quot; src=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEzhXLrvOiLoddyU_d-CTYgzG47nL2HXWgOddYIFZYORrY4v956HRCjWUjBbUPvUUFbY&amp;amp;usqp=CAU&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1115" width="221" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-107" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;h1 style=&quot;background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: none; box-sizing: border-box; font-style: normal; margin: 0.25em 0px 0.25rem; padding: 0px; vertical-align: baseline; font-family: &amp;quot;Satoshi Variable&amp;quot;, sans-serif; font-weight: 700; line-height: 100%; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 35px;&quot; class=&quot;type__headline__xs&quot;&gt;reNFT&lt;/h1&gt;&lt;div style=&quot;font-size: 33px;&quot;&gt;&lt;font color=&quot;#999999&quot; style=&quot;font-size: 33px;&quot;&gt;Collateral-free, permissionless, and highly customizable EVM NFT rentals&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="683" y="1500" width="1115" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-108" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Made by Catellatech C4 Wardens&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1083.25" y="1590" width="314.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-172" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;shadow=1;glass=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1145" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-173" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Payment Escrow &lt;font color=&quot;#9933ff&quot;&gt;Module&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="207.5" y="1133.75" width="315" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-174" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;shadow=1;glass=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1187.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-193" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WbwlSFrgMBep1RVpoRQw-175" target="WbwlSFrgMBep1RVpoRQw-91">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="1390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-175" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Storage &lt;font color=&quot;#9933ff&quot;&gt;Module&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="207.5" y="1176.25" width="260" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-176" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;shadow=1;glass=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="1145" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-178" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Admin &lt;font color=&quot;#9933ff&quot;&gt;Policy&lt;/font&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1151" y="1133.75" width="180" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-179" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Create&amp;nbsp;&lt;font color=&quot;#9933ff&quot;&gt;Policy&lt;/font&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1151" y="1176.25" width="180" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-180" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Factory&amp;nbsp;&lt;font color=&quot;#9933ff&quot;&gt;Policy&lt;/font&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1151" y="1218.75" width="180" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-181" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Guard&amp;nbsp;&lt;font color=&quot;#9933ff&quot;&gt;Policy&lt;/font&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1151" y="1270" width="180" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-195" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="WbwlSFrgMBep1RVpoRQw-182" target="WbwlSFrgMBep1RVpoRQw-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-197" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="WbwlSFrgMBep1RVpoRQw-182" target="WbwlSFrgMBep1RVpoRQw-196">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-182" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Stop&amp;nbsp;&lt;font color=&quot;#9933ff&quot;&gt;Policy&lt;/font&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1151" y="1312.5" width="180" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-183" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;shadow=1;glass=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="1187.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-184" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;shadow=1;glass=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="1230" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-185" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;shadow=1;glass=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="1281.25" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-186" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;shadow=1;glass=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="1323.75" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-187" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&amp;nbsp;Accumulator &lt;font color=&quot;#9933ff&quot;&gt;Package&lt;/font&gt;&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1937.5" y="1126" width="295" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-188" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;shadow=1;glass=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="1137.25" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-189" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&amp;nbsp;Reclaimer&amp;nbsp;&lt;font color=&quot;#9933ff&quot;&gt;Package&lt;/font&gt;&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="1169" width="295" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-199" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="WbwlSFrgMBep1RVpoRQw-190" target="WbwlSFrgMBep1RVpoRQw-196">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-190" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&amp;nbsp;Signer&amp;nbsp;&lt;font color=&quot;#9933ff&quot;&gt;Package&lt;/font&gt;&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="1211.5" width="295" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-191" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;shadow=1;glass=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="1180.25" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-192" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;shadow=1;glass=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="1222.75" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WbwlSFrgMBep1RVpoRQw-196" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;img alt=&quot;Imágenes de Smart Contract Icon: descubre bancos de fotos, ilustraciones,  vectores y vídeos de 13,909 | Adobe Stock&quot; src=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEzhXLrvOiLoddyU_d-CTYgzG47nL2HXWgOddYIFZYORrY4v956HRCjWUjBbUPvUUFbY&amp;amp;usqp=CAU&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="1115" width="221" height="240" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
